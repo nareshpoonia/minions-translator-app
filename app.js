@@ -13,6 +13,7 @@ function getTranslatedText(text) {
 // function to handle error
 function errorHandler(error) {
   console.log("There is an error, please try again after some time");
+  alert("There is an error, please try again after some time");
 }
 
 //Event Handler for click event

@@ -5,15 +5,35 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Minion Translator App</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <!-- <script>
       console.log("Checking if the script is working");
     </script> -->
-    <h1>This is Minion Transltor App</h1>
-    <input id="input-text-area" type="text" />
-    <button id="button">Enter Text Here</button>
+    <h1 class="header">Minion Transltor App</h1>
+    <input
+      id="input-text-area"
+      placeholder="Enter your text here to translate to Minion Language"
+      type="text"
+    />
+    <button id="button">Translate to Minion Language</button>
     <div id="output-text"></div>
+    <div class="footer">
+      <h1>About</h1>
+      <p class="paragraph">
+        Are you a fan of minions? Did you know that the gibberish they say is an
+        actual language. Use the translator to convert your text from English to
+        Minion speak or Banana language
+      </p>
+    </div>
+    <p></p>
     <script src="app.js"></script>
   </body>
 </html>
