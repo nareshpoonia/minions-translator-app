@@ -1,3 +1,6 @@
-console.log("Checking if JS is working");
-var userdata = prompt("Please enter your name");
-alert("This is minions translator app");
+var button = document.querySelector("#button");
+console.log(button);
+
+button.addEventListener("click", function callback() {
+  console.log("clicked");
+});
