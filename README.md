@@ -1,4 +1,4 @@
-# Neog Camp - Portfolio Website (Assignment for Point Three)
+# Neog Camp - Minion Translator App (Assignment for Point Six)
 
 This is a Minion Translator Web App, which is also assignment for Mark Six of NeogCamp Bootcamp
 
@@ -15,9 +15,9 @@ This is Minion Translator Web App
 
 ### Links
 
-Both solution link and the Live Site URL to be updated soon
+Live Site URL to be updated soon
 
-- Solution URL: [Solution URL](https://github.com/nareshpoonia/)
+- Solution URL: [Solution URL](https://github.com/nareshpoonia/minions-translator-app)
 - Live Site URL: [Live site URL](https://xyz.netlify.app/)
 
 ### Built with
