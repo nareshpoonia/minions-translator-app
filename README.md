@@ -18,7 +18,7 @@ This is Minion Translator Web App
 Live Site URL to be updated soon
 
 - Solution URL: [Solution URL](https://github.com/nareshpoonia/minions-translator-app)
-- Live Site URL: [Live site URL](https://xyz.netlify.app/)
+- Live Site URL: [Live site URL](https://minionstranslationwebapp.netlify.app/)
 
 ### Built with
 
